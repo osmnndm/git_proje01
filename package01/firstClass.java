@@ -7,6 +7,8 @@ public class firstClass {
 		System.out.println("ilk commit from local repository");
 		System.out.println("ikinci commit from local repository");
 		
+		System.out.println("yeni branch oluşturdum");
+		
 	}
 	
 
